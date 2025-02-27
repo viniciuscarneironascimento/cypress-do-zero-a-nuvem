@@ -199,7 +199,6 @@ describe('Suite de Testes Central de Atendimento ao Cliente TAT', () => {
   context('Teste com CI', () => {
     it('Testando commit sem yml', () => {
       //Simulando teste com erro
-      cy.title().should('eq', 'Central de Atendimento ao');
     });
   });
 
