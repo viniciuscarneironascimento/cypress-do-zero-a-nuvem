@@ -202,6 +202,16 @@ describe('Suite de Testes Central de Atendimento ao Cliente TAT', () => {
     });
   });
 
+  context('Lição 11', () => {
+    it('Integrando com o Cypress Cloud', () => {
+      //Cypress Cloud, que fornece funcionalidades úteis para te ajudar 
+      //a gerenciar sua suite de testes automatizados
+      //projectId: "j1usce",
+      //npx cypress run --record --key 11f4f83d-4cba-40c9-bbff-d0d8b2a2cc03
+      //CYPRESS_RECORD_KEY  11f4f83d-4cba-40c9-bbff-d0d8b2a2cc03
+    });
+  });
+
 
 
 
