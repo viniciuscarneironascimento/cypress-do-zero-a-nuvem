@@ -196,8 +196,8 @@ describe('Suite de Testes Central de Atendimento ao Cliente TAT', () => {
     });   
   });
 
-  context('Lição 7', () => {
-    it('', () => {
+  context('Teste com CI', () => {
+    it('Testando commit sem yml', () => {
       
     });
   });
