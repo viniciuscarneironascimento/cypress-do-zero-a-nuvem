@@ -185,7 +185,7 @@ describe('Suite de Testes Central de Atendimento ao Cliente TAT', () => {
     });
   });
 
-  context('Lição 6', () => {
+  context('Lição 10', () => {
     it('seleciona um arquivo da pasta fixtures', () => {
       cy.get('#file-upload')
         .selectFile('cypress/fixtures/example.json')
@@ -197,7 +197,7 @@ describe('Suite de Testes Central de Atendimento ao Cliente TAT', () => {
   });
 
   context('Teste com CI', () => {
-    it('Testando commit sem yml', () => {
+    it('Testando', () => {
       //Simulando teste com erro
     });
   });
