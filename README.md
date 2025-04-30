@@ -1,3 +1,33 @@
+# 📦 Projeto: cypress-do-zero-a-nuvem
+
+🔗 [Acesse o repositório no GitHub](https://github.com/viniciuscarneironascimento/buger-eats-cypress-discovery)
+
+---
+
+## 📝 Descrição
+
+Repositório do curso de automação de testes **“Cypress, do Zero à Nuvem”**, ministrado pelo instrutor **Walmir Filho**, que aborda todas as fases de um projeto de testes E2E em aplicações web — desde a instalação até a integração com o Cypress Cloud.
+
+---
+
+## 🚀 Resultados Alcançados
+
+- Instalação e configuração do projeto de testes com Cypress **iniciando do zero**.  
+- **Fork** do repositório oficial do curso diretamente no GitHub.  
+- Organização do projeto com a pasta **`lessons`**, contendo o conteúdo estruturado passo a passo conforme o curso.  
+- Interação prática com elementos comuns de uma aplicação web por meio do arquivo `index.html`.  
+- Especificação de casos de teste com foco na validação das regras de negócio.  
+- Criação de comandos customizados para reutilização e padronização de ações nos testes.  
+- Testes de upload de arquivos em formulários.  
+- Validação de responsividade em diferentes navegadores.  
+- Criação e configuração de **workflow básico** para integração contínua **(CI/CD) com GitHub Actions**.  
+- Integração do workflow com o **Cypress Cloud**, permitindo gerenciamento e monitoramento dos testes automatizados na nuvem.
+
+---
+
+
+
+
 # 🌲 Cypress, do Zero à Nuvem ☁️
 
 👋 Seja bem-vindo(a)!
@@ -20,9 +50,5 @@
 - Como integrar seu _workflow_ de integração contínua com o Cypress Cloud (o serviço de gestão de testes do Cypress na nuvem)
 
 ## Vamos começar?
-
 Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
-
-___
-
 Este é um curso da **Escola Talking About Testing**.
